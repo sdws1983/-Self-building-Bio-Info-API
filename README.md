@@ -1,2 +1,2 @@
-# -Self-building-Bio-Info-API
+# Self-building-Bio-Info-API
 Gather and rebuild some bio-information from Internet.
